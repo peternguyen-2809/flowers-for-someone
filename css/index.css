@@ -102,10 +102,10 @@ a {
 }
 
 .btn:hover .text {
-  color: white;
+  color: pink;
 }
 
 .btn:hover .sparkle {
-  fill: white;
+  fill: pink;
   transform: scale(1.2);
 }
